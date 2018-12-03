@@ -13,5 +13,6 @@ int main()
 	cout << "¬ведите b: ";
 	cin >> b;
     cout << "—умма a и b = " << a + b << endl;
+    cout << "разность a и b = " << a - b << endl;
 	return 0;
 }
